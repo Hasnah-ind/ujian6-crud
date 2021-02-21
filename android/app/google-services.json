@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444227900295",
+    "firebase_url": "https://biodata-576e6-default-rtdb.firebaseio.com",
+    "project_id": "biodata-576e6",
+    "storage_bucket": "biodata-576e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444227900295:android:473abd0c87471ec763b922",
+        "android_client_info": {
+          "package_name": "com.biodata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444227900295-5b6lsd4de8jikv1ka1bunkipq2hha06k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biodata",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "444227900295-fo6ecocdh8iaerh3ebos6o5d0jdh8cma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUsrBsc5KsSW9vWhNJvsdV5A4e9ZWcKpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444227900295-fo6ecocdh8iaerh3ebos6o5d0jdh8cma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
