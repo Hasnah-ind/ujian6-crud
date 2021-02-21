@@ -140,7 +140,7 @@ getLocation=()=>{
     },
    (error) => console.log(error),
      {
-       enableHighAccuracy: true,
+       enableHighAccuracy: false,
        timeout: 2000,
        maximumAge: 3600000,
       },
